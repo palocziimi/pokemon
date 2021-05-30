@@ -1,0 +1,12 @@
+Sziasztok!
+
+Itt a várva várt feladat! *Dobpergés*
+Nem tudom mennyire ismeritek a Pokémon rajzfilmet, de a főszereplőnek (Ash ha jól emlékszem) van benne egy kis eszköze, ami kiírja egy Pokémon adatait ha ráirányítja (milyen típusú, mi a neve, hogy néz ki, képességei stb.). Körülbelül ezt kellene a ti oldalaitoknak is megvalósítania. Három "szintre" bontottam a feladatot, hogy mindenki találhasson benne kihívást, aki szeretne de mindenki meg is tudja csinálni:
+
+Kezdő - Az oldal megjeleníti egy Pokémon adatait, SZÉP, IGÉNYES formában. Az oldal reszponzív (bootstrap grid használata ajánlott) és még ezen kívül tartalmaz valamilyen bootstrap elemet (olyan is lehet amit nem tanultunk, nézz utána, nézegesd a dokumentációt). Ha ezek megvannak akkor ez ötös...
+
+Haladó - Az oldalon egy menüben válthatunk több Pokémon közt, vagy egy adott Pokémon evolúciói közt, és az oldal tartalma ennek megfelelően frissül (itt lehet alkalmazni azt a megoldást, amit a múltkor a Mechwartos webshopnál használtunk). Ez az oldal is legyen reszponzív és igényes megjelenésű.
+
+Legenda - Van valami elvetemült ötleted? Használni akarsz valami API-t mert hallottál már ilyenről? Pokémon harcot akarsz? Ha valakinek van ilyesmire affinitása, akkor nyugodtan ezt is el lehet készíteni (ez esetben írt meg előtte mi az ötlet, és segítek benne, de nem fogom helyetted megcsinálni)
+
+Alulra belinkelem az oldalt, ahonnan adatokat tudtok szerezni meg képeket. Jó munkát kívánok!
